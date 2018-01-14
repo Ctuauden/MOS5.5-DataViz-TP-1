@@ -10,11 +10,11 @@
 <h2> Exemples </h2>
 <h3> Le Dot Plot du gouvernement Américain </h3>
 <img src="FEDDotPlot.png" />
-<p style="fontsize:10pt;"><i>Dot Plot des perspectives de croissance par le gouvernement Américan</i></p>
+<p style="fontsize:10pt; text-align:center;"><i>Dot Plot des perspectives de croissance par le gouvernement Américan</i></p>
 
 
 
-Sources : 
-https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot
-https://en.wikipedia.org/wiki/Dot_plot_(statistics) 
-https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)
+Sources :<br/> 
+https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot<br/>
+https://en.wikipedia.org/wiki/Dot_plot_(statistics) <br/>
+https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)<br/>
