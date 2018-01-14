@@ -9,7 +9,7 @@
 
 <h2> Exemples </h2>
 <h3> Le Dot Plot du gouvernement Américain </h3>
-<img src="" alt="dotplot"/>
+<img src="FEDDotPlot.png" />
 <p style="fontsize:10pt;"><i>Dot Plot des perspectives de croissance par le gouvernement Américan</i></p>
 
 
