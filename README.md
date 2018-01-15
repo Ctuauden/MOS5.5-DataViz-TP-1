@@ -32,9 +32,24 @@ Ce diagramme a pour point positif de facilement montrer des tendances de similar
 </div>
 
 
+<h3>Similarité d'un signal [4]</h3>
+<img src="img/Rp_soi.gif"/>
+<p style="fontsize:10pt; text-align:center;"><i>El Nino oscillations : similarities over time</i></p>
+
+<div> 
+Ici on observe par le biais d'un dotplot la récurrence d'un phénomène métérologique - un courant marrin déterminant pour la météo à l'échelle mondiale- au fil du temps.
+Ce diagramme est intéressant car il met en valeur les années pour lesquelles les phénomènes observés se rapprochent de phénomènes déjà observés. En d'autres termes, on peut déduire l'impact de El Nino une certaine année en récupérant l'historique de ses effets les années similaires à celle-ci ; et c'est ce diagramme qui nous indique quelles années regarder.
+</div>
+
+
+
+
+
+
 Sources :<br/> 
 https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot [1]<br/>
 https://en.wikipedia.org/wiki/Dot_plot_(statistics) <br/>
 https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics) [2]<br/>
 http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1 <br/>
 <a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[3]<br/>
+<a href='https://en.wikipedia.org/wiki/Recurrence_plot'>https://en.wikipedia.org/wiki/Recurrence_plot</a>[4]<br/>
