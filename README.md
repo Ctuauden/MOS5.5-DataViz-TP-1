@@ -37,3 +37,4 @@ https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's
 https://en.wikipedia.org/wiki/Dot_plot_(statistics) <br/>
 https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)<br/>
 http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1 <br/>
+<a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a><br/>
