@@ -10,7 +10,7 @@ On retrouve ces graphiques dans deux grands domaines :  Les Statistiques et la B
 
 <h2> Exemples Statistiques </h2>
 <h3> Le Dot Plot du gouvernement Américain </h3>
-<img src="FEDDotPlot.png" />
+<img src="img/FEDDotPlot.png" />
 <p style="fontsize:10pt; text-align:center;"><i>Dot Plot des perspectives de croissance par le gouvernement Américan</i></p>
 <br/>
 <div> Ce DotPlot est compréhensible grâce au codage du nombre de votant par la taille des points. Ces points apportent ainsi un bon rendu visuel des opinions exprimées. De plus la différentiation avec les points non coloriés permet de se rendre compte d'un changement dans les données et donc peuvent interpeller, faire apparaître une information omise.
