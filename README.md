@@ -40,8 +40,16 @@ Ce diagramme a pour point positif de facilement montrer des tendances de similar
 Ici on observe par le biais d'un dotplot la récurrence d'un phénomène métérologique - un courant marrin déterminant pour la météo à l'échelle mondiale- au fil du temps.
 Ce diagramme est intéressant car il met en valeur les années pour lesquelles les phénomènes observés se rapprochent de phénomènes déjà observés. En d'autres termes, on peut déduire l'impact de El Nino une certaine année en récupérant l'historique de ses effets les années similaires à celle-ci ; et c'est ce diagramme qui nous indique quelles années regarder.
 </div>
-
-
+<br/>
+<h3>Interprétation de pattern [5]</h3>
+<img src="Interpreting Dotplot.png"/>
+<p style="fontsize:10pt; text-align:center;"><i>Distance between two sequences</i></p>
+<div>
+On peut également utiliser des graphiques de ce type pour déterminer une distance élastique entre deux séquences de nombre, de vecteurs, de lettres,... Il suffit pour cela de représenter une distance "classique" à chaque intersection et alors des zones telles que repérées 1, 2.b et 2.c apparaîssent. 
+Ces zones sont caractéristiques d'une égalité (1) entre les séquences, d'une insertion (2.b) de caractères ou encore d'une destruction (2.c) de caractères.
+Ce type de matrice est utilisé par exemple en reconnaissance de parole (comme vu lors du MOD 5.3 : Traitement et Analyse de données visuelles et sonores).
+N.B : Sur cette image il ne s'agit pas de distance élastique, ici c'est surtout les zones d'intérêt mises en exergues que l'on étudie.
+</div>
 
 
 
