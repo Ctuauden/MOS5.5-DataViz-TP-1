@@ -24,7 +24,7 @@ Les DotPlots utilisés dans le domaine de la BioInformatique renseignent dans la
 </div>
 <br/>
 <h3>Ressemblances entre séquences zinguées</h3>
-<img scr="img/Zinc-finger-dot-plot.png" />
+<img src="img/Zinc-finger-dot-plot.png" />
 <p style="fontsize:10pt; text-align:center;"><i>A DNA dotplot of a human zinc finger transcription factor</i></p>
 
 <div> 
