@@ -54,7 +54,7 @@ N.B : Sur cette image il ne s'agit pas de distance élastique, ici c'est surtout
 
 
 
-Sources :<br/> 
+<p style="margin-top: 3cm;">Sources :</p><br/> 
 https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot [1]<br/>
 https://en.wikipedia.org/wiki/Dot_plot_(statistics) <br/>
 https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics) [2]<br/>
