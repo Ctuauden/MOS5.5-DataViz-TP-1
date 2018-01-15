@@ -42,7 +42,7 @@ Ce diagramme est intéressant car il met en valeur les années pour lesquelles l
 </div>
 <br/>
 <h3>Interprétation de pattern [5]</h3>
-<img src="Interpreting Dotplot.png"/>
+<img src="img/Interpreting Dotplot.png"/>
 <p style="fontsize:10pt; text-align:center;"><i>Distance between two sequences</i></p>
 <div>
 On peut également utiliser des graphiques de ce type pour déterminer une distance élastique entre deux séquences de nombre, de vecteurs, de lettres,... Il suffit pour cela de représenter une distance "classique" à chaque intersection et alors des zones telles que repérées 1, 2.b et 2.c apparaîssent. 
