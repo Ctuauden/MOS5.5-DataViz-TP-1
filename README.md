@@ -4,7 +4,8 @@
 
 <h2> Principe </h2>
 <div> Aussi appelés <i>Dot Charts</i>, les Dot Plots sont des graphiques qui consistent en des points représentant des valeurs discrètes d'un problème.<br/>
-  Ces représentations sont donc adaptées aux informations dont les valeurs possibles sont prédéfinies ou facilement distingables les unes des autres.
+Ces représentations sont donc adaptées aux informations dont les valeurs possibles sont prédéfinies ou facilement distingables les unes des autres.<br/>
+On retrouve ces graphiques dans deux grands domaines :  Les Statistiques et la BioInformatique.
 </div>
 
 <h2> Exemples </h2>
