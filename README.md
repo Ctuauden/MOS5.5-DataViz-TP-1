@@ -10,20 +10,20 @@ On retrouve ces graphiques dans deux grands domaines :  Les Statistiques et la B
 </div>
 
 <h2> Exemples Statistiques </h2>
-<h3> Le Dot Plot du gouvernement Américain </h3>
+<h3> Le Dot Plot du gouvernement Américain [1]</h3>
 <img src="img/FEDDotPlot.png" />
 <p style="fontsize:10pt; text-align:center;"><i>Dot Plot des perspectives de croissance par le gouvernement Américain</i></p>
 <br/>
 <div> Ce DotPlot est compréhensible grâce au codage du nombre de votant par la taille des points. Ces points apportent ainsi un bon rendu visuel des opinions exprimées. De plus la différentiation avec les points non coloriés permet de se rendre compte d'un changement dans les données et donc peuvent interpeller, faire apparaître une information omise.
 </div>
 
-<h2> Exemples BioInformatique </h2>
+<h2> Exemples BioInformatique [2]</h2>
 
 <div>
 Les DotPlots utilisés dans le domaine de la BioInformatique renseignent dans la plupart des cas sur une similarité entre deux variables. Leur particularité est que les axes sont déterminés par des vecteurs connus.
 </div>
 <br/>
-<h3>Ressemblances entre séquences zinguées</h3>
+<h3>Ressemblances entre séquences zinguées [3]</h3>
 <img src="img/Zinc-finger-dot-plot.png" />
 <p style="fontsize:10pt; text-align:center;"><i>A DNA dotplot of a human zinc finger transcription factor</i></p>
 
@@ -33,8 +33,8 @@ Ce diagramme a pour point positif de facilement montrer des tendances de similar
 
 
 Sources :<br/> 
-https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot<br/>
+https://www.bloomberg.com/graphics/fomc-dot-plot/ : Famous Federal Governement's DotPlot [1]<br/>
 https://en.wikipedia.org/wiki/Dot_plot_(statistics) <br/>
-https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)<br/>
+https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics) [2]<br/>
 http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1 <br/>
-<a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a><br/>
+<a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[3]<br/>
