@@ -28,7 +28,10 @@ Les DotPlots Statistiques peuvent également être utilisés pour classer des in
 <img src="img/SituerLesPop.gif"/>
 <i>Penn-State University : Sampling distribution of the mean</i>
 
-La visualisation d'un DotPlot apporte également une information de répartition très important. Ici il apparraît clairement, grâce à la simplicité de ces graphiques, que les deux échantillions donnés ont des moyennes proches mais sont répartis de façons différentes.
+La visualisation d'un DotPlot apporte également une information de répartition très important. Ici il apparraît clairement, grâce à la simplicité de ces graphiques, que les deux échantillions donnés ont des moyennes proches mais sont répartis de façons différentes. On peut encore le constater sur l'image ci-dessous : 
+
+<img src="img/SituerLesPop2.jpg"/>
+<i>Illustrative Mathematics : margin of error for estimating a population mean</i>
 
 ## III - Exemples BioInformatique [2]
 
@@ -65,6 +68,7 @@ Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niv
 * <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
 * <a ref='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
 * <a href='http://sites.stat.psu.edu/~ajw13/stat500_su_res/notes/lesson05/lesson05_03.html'>Penn State University</a>[x]
+* <a href='https://www.illustrativemathematics.org/content-standards/tasks/1956'>illustrativemathematics.org</a>[x]
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[2]
 * <a href='http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1'>Information génétique</a>
