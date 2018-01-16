@@ -68,7 +68,7 @@ Pour ce qui est des dotplots liés à la bioinformatique, il existe de nombreux 
 <img src="img/dotplotnice.png"/>
 <i>DotPlot de similarités entre : EXEMPLESEQUENCE et SEQUENCEEXEMPLE</i>[9]
 
-<img src="seriolis.png"/>
+<img src="img/seriolis.png"/>
 <i>Interface du software Seriolis specialisé dans les dotplots bioinformatiques</i>[10]
 
 ## V - Sources
@@ -84,4 +84,4 @@ Pour ce qui est des dotplots liés à la bioinformatique, il existe de nombreux 
 * <a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[7]
 * <a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [8]
 * <a href='http://www.ac-nice.fr/svt/productions/html5/dotplot/index.htm?arn=true'> Académie de Nice </a>[9]
-* <a href=''> </a>[10]
+* <a href='http://www.code10.info/index.php?view=article&catid=50%3Acat_coding_software_serolis&id=63%3Aserolis-software-package-for-dot-plot-creation&option=com_content&Itemid=61'>Seriolis</a>[10]
