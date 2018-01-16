@@ -16,7 +16,7 @@ Dans le domaine des statistiques, ces DotPlots sont une bonne alternative aux hi
 
 Ce DotPlot est compréhensible grâce au codage du nombre de votant par la taille des points. Ces points apportent ainsi un bon rendu visuel des opinions exprimées. De plus la différentiation avec les points non coloriés permet de se rendre compte d'un changement dans les données et donc peuvent interpeller, faire apparaître une information omise.
 
-### 2) Population par catégorie
+### 2) Population par catégorie [2]
 
 <img src="img/Food.PNG"/>
 <i>Dot Plot : Type of food for snacks</i>
@@ -26,32 +26,32 @@ Les DotPlots Statistiques peuvent également être utilisés pour classer des in
 ### 3) Visualisation d'une répartition
 
 <img src="img/SituerLesPop.gif"/>
-<i>Penn-State University : Sampling distribution of the mean</i>
+<i>Penn-State University : Sampling distribution of the mean</i>[3]
 
 La visualisation d'un DotPlot apporte également une information de répartition très important. Ici il apparraît clairement, grâce à la simplicité de ces graphiques, que les deux échantillions donnés ont des moyennes proches mais sont répartis de façons différentes. On peut encore le constater sur l'image ci-dessous : 
 
-<img src="img/SituerLesPop2.jpg"/>
+<img src="img/SituerLesPop2.jpg"/>[4]
 <i>Illustrative Mathematics : margin of error for estimating a population mean</i>
 
-## III - Exemples BioInformatique [2]
+## III - Exemples BioInformatique [5]
 
 Les DotPlots utilisés dans le domaine de la BioInformatique renseignent dans la plupart des cas sur une similarité entre deux variables. Leur particularité est que les axes sont déterminés par des vecteurs connus.
 
-### 1) Ressemblances entre séquences zinguées [3]
+### 1) Ressemblances entre séquences zinguées [6]
 
 <img src="img/Zinc-finger-dot-plot.png"/>
 <i>A DNA dotplot of a human zinc finger transcription factor</i>
 
 Ce diagramme a pour point positif de facilement montrer des tendances de similarités, c'est à dire des régions qui se ressemblent beaucoup, mais il n'est pas facile de distinguer des différences locales si les vecteurs sont grands.
 
-### 2) Similarité d'un signal [4]
+### 2) Similarité d'un signal [7]
 
 <img src="img/Rp_soi.gif"/>
 <i>El Nino oscillations : similarities over time</i>
 
 Ici on observe par le biais d'un dotplot la récurrence d'un phénomène métérologique - un courant marrin déterminant pour la météo à l'échelle mondiale- au fil du temps.Ce diagramme est intéressant car il met en valeur les années pour lesquelles les phénomènes observés se rapprochent de phénomènes déjà observés. En d'autres termes, on peut déduire l'impact de El Nino une certaine année en récupérant l'historique de ses effets les années similaires à celle-ci ; et c'est ce diagramme qui nous indique quelles années regarder.
 
-### 3) Interprétation de pattern [5]
+### 3) Interprétation de pattern [8]
 
 <img src="img/Interpreting Dotplot.png"/>
 <i>Distance between two sequences</i>
@@ -66,12 +66,12 @@ Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niv
 ## V - Sources
 
 * <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
-* <a href='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
-* <a href='http://sites.stat.psu.edu/~ajw13/stat500_su_res/notes/lesson05/lesson05_03.html'>Penn State University</a>[x]
-* <a href='https://www.illustrativemathematics.org/content-standards/tasks/1956'>illustrativemathematics.org</a>[x]
+* <a href='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[2]
+* <a href='http://sites.stat.psu.edu/~ajw13/stat500_su_res/notes/lesson05/lesson05_03.html'>Penn State University</a>[3]
+* <a href='https://www.illustrativemathematics.org/content-standards/tasks/1956'>illustrativemathematics.org</a>[4]
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
-* <a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[2]
+* <a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[5]
 * <a href='http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1'>Information génétique</a>
-* <a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[3]
-* <a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[4]
-* <a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [5]
+* <a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[6]
+* <a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[7]
+* <a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [8]
