@@ -23,6 +23,13 @@ Ce DotPlot est compréhensible grâce au codage du nombre de votant par la taill
 
 Les DotPlots Statistiques peuvent également être utilisés pour classer des individus ou groupes d'individus selon des criètres là encore discrets.<br/>Ce graphique en particulier très simple d'interprétation et très intuitif. Bien qu'aucune information ne soit donnée sur la signification de chaque point ; il est facile de comprendre le sens du graphique à savoir qu'au plus il y a de point dans chaque colonne, au plus chaque trait de caractère est représenté.
 
+### Visualisation d'une répartition
+
+<img src="img/SituerLesPop.gif"/>
+<i>Penn-State University : Sampling distribution of the mean</i>
+
+La visualisation d'un DotPlot apporte également une information de répartition très important. Ici il apparraît clairement, grâce à la simplicité de ces graphiques, que les deux échantillions donnés ont des moyennes proches mais sont répartis de façons différentes.
+
 ## Exemples BioInformatique [2]
 
 Les DotPlots utilisés dans le domaine de la BioInformatique renseignent dans la plupart des cas sur une similarité entre deux variables. Leur particularité est que les axes sont déterminés par des vecteurs connus.
@@ -57,6 +64,7 @@ Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niv
 
 * <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
 * <a ref='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
+* <a href='http://sites.stat.psu.edu/~ajw13/stat500_su_res/notes/lesson05/lesson05_03.html'>Penn State University</a>[x]
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[2]
 * <a href='http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1'>Information génétique</a>
