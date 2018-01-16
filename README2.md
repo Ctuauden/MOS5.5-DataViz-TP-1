@@ -26,12 +26,12 @@ Les DotPlots Statistiques peuvent également être utilisés pour classer des in
 ### 3) Visualisation d'une répartition
 
 <img src="img/SituerLesPop.gif"/>
-<i>Penn-State University : Sampling distribution of the mean</i>[3]
+<i>Penn-State University : Sampling distribution of the mean</i> [3]
 
 La visualisation d'un DotPlot apporte également une information de répartition très important. Ici il apparraît clairement, grâce à la simplicité de ces graphiques, que les deux échantillions donnés ont des moyennes proches mais sont répartis de façons différentes. On peut encore le constater sur l'image ci-dessous : 
 
-<img src="img/SituerLesPop2.jpg"/>[4]
-<i>Illustrative Mathematics : margin of error for estimating a population mean</i>
+<img src="img/SituerLesPop2.jpg"/>
+<i>Illustrative Mathematics : margin of error for estimating a population mean</i> [4]
 
 ## III - Exemples BioInformatique [5]
 
