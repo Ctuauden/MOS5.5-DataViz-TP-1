@@ -63,6 +63,14 @@ N.B : Sur cette image il ne s'agit pas de distance élastique, ici c'est surtout
 
 Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niveaux différents de personnalisation. Pour les DotPlots Statistiques, on peut utiliser des outils très généraux tels que Excel tout comme on peut utiliser des outils plus complets et compliqués comme Tableau.
 
+Pour ce qui est des dotplots liés à la bioinformatique, il existe de nombreux software qui permettent de les tracer, là encore avec des niveaux de détails différents. La palette de solutions disponibles vont du script html au logiciel spécialisé.
+
+<img src="img/dotplotnice.png"/>
+<i>DotPlot de similarités entre : EXEMPLESEQUENCE et SEQUENCEEXEMPLE</i>[9]
+
+<img src="seriolis.png"/>
+<i>Interface du software Seriolis specialisé dans les dotplots bioinformatiques</i>[10]
+
 ## V - Sources
 
 * <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
@@ -75,3 +83,5 @@ Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niv
 * <a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[6]
 * <a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[7]
 * <a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [8]
+* <a href='http://www.ac-nice.fr/svt/productions/html5/dotplot/index.htm?arn=true'> Académie de Nice </a>[9]
+* <a href=''> </a>[10]
