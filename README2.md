@@ -53,11 +53,12 @@ N.B : Sur cette image il ne s'agit pas de distance élastique, ici c'est surtout
 Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niveaux différents de personnalisation. Pour les DotPlots Statistiques, on peut utiliser des outils très généraux tels que Excel tout comme on peut utiliser des outils plus complets et compliqués comme Tableau.
 
 ## Sources
-<a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
-<a ref='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
-<a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
-<a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[2]
-<a href='http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1'>Information génétique</a>
-<a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[3]
-<a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[4]
-<a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [5]
+
+* <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
+* <a ref='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
+* <a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
+* <a href='https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics)'>DotPlot BioInformatics</a>[2]
+* <a href='http://acces.ens-lyon.fr/acces/thematiques/evolution/logiciels/anagene/programmes-de-1ere-s-2011/expression-de-linformation-genetique/dotplot-1'>Information génétique</a>
+* <a href='http://www.code10.info/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D64:inroduction-to-dot-plots%26catid%3D52:cat_coding_algorithms_dot-plots%26Itemid%3D76'>code10.info</a>[3]
+* <a href='https://en.wikipedia.org/wiki/Recurrence_plot'>Reccurence_Plot</a>[4]
+* <a href='https://ugene.net/wiki/pages/viewpage.action?pageId=4227426'>ugene.net</a> [5]
