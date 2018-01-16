@@ -66,7 +66,7 @@ Il existe de nombreux outils pour obtenir des DotPlots, ils offrent tous des niv
 ## V - Sources
 
 * <a href='https://www.bloomberg.com/graphics/fomc-dot-plot/'>Famous Federal Governement's DotPlot</a>[1]
-* <a ref='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
+* <a href='http://www.statisticshowto.com/what-is-a-dot-plot/'>what is a dot plot ?</a>[x]
 * <a href='http://sites.stat.psu.edu/~ajw13/stat500_su_res/notes/lesson05/lesson05_03.html'>Penn State University</a>[x]
 * <a href='https://www.illustrativemathematics.org/content-standards/tasks/1956'>illustrativemathematics.org</a>[x]
 * <a href='https://en.wikipedia.org/wiki/Dot_plot_(statistics)'>DotPlot Statistics</a>
